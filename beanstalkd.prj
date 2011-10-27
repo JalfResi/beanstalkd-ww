@@ -1,0 +1,39 @@
+<project version="Crimson Editor 3.60">
+	<localfile path="Z:\beanstalkd\beanstalkd.c" />
+	<localfile path="Z:\beanstalkd\binlog.c" />
+	<localfile path="Z:\beanstalkd\binlog.h" />
+	<localfile path="Z:\beanstalkd\config.h" />
+	<localfile path="Z:\beanstalkd\conn.c" />
+	<localfile path="Z:\beanstalkd\conn.h" />
+	<localfile path="Z:\beanstalkd\cut.c" />
+	<localfile path="Z:\beanstalkd\cut.h" />
+	<localfile path="Z:\beanstalkd\cutgen.c" />
+	<localfile path="Z:\beanstalkd\group.c" />
+	<localfile path="Z:\beanstalkd\group.h" />
+	<localfile path="Z:\beanstalkd\job.c" />
+	<localfile path="Z:\beanstalkd\job.h" />
+	<localfile path="Z:\beanstalkd\ms.c" />
+	<localfile path="Z:\beanstalkd\ms.h" />
+	<localfile path="Z:\beanstalkd\net.c" />
+	<localfile path="Z:\beanstalkd\net.h" />
+	<localfile path="Z:\beanstalkd\port.c" />
+	<localfile path="Z:\beanstalkd\port.h" />
+	<localfile path="Z:\beanstalkd\pq.c" />
+	<localfile path="Z:\beanstalkd\pq.h" />
+	<localfile path="Z:\beanstalkd\primes.c" />
+	<localfile path="Z:\beanstalkd\primes.h" />
+	<localfile path="Z:\beanstalkd\prot.c" />
+	<localfile path="Z:\beanstalkd\prot.h" />
+	<localfile path="Z:\beanstalkd\doc\protocol.txt" />
+	<localfile path="Z:\beanstalkd\README" />
+	<localfile path="Z:\beanstalkd\README-DEVELOPERS" />
+	<localfile path="Z:\beanstalkd\stat.h" />
+	<localfile path="Z:\beanstalkd\tube.c" />
+	<localfile path="Z:\beanstalkd\tube.h" />
+	<localfile path="Z:\beanstalkd\util.c" />
+	<localfile path="Z:\beanstalkd\util.h" />
+</project>
+
+<workspace version="Crimson Editor 3.60">
+</workspace>
+

@@ -1,0 +1,15 @@
+This is beanstalkd, a fast, general-purpose work queue.
+
+This version is modified by Wade Womersley <wade85+beanstalkd@gmail.com> at Optimum Labs 
+<http://www.optimumlabs.co.uk/> to add new features and functionality. Personal 
+site is found at http://www.xcitestudios.com/ .
+
+See http://xph.us/software/beanstalkd/ for the original version.
+
+To build beanstalkd, type "./configure" then "make". (You might need to type
+"gmake"; our build requires GNU make.)
+
+Requires libevent 1.4.1 or later. You can find libevent at
+http://www.monkey.org/~provos/libevent/.
+
+To install, copy the file "beanstalkd" anywhere you like.
