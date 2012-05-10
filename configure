@@ -2551,6 +2551,7 @@ fi
 
 
 # Define the identity of the package.
+ chmod +x $srcdir/version.sh
  PACKAGE=beanstalkd
  VERSION=$($srcdir/version.sh)
 
